@@ -2,7 +2,7 @@
     <img src="./public/favicons/icon_moveup.png" width="180" alt="Logo MoveUp">
 </p>
 
-<h1 align="center">MoveUp — Plataforma de Mobilidade Sustentável</h1>
+<h1 align="center">MoveUP — Plataforma de Mobilidade Sustentável</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React">
